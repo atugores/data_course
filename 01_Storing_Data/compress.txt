@@ -1,0 +1,13 @@
+
+Demasiadas palabras y muy poco espacio en disco.
+
+    Vamos a guardar esto comprimido.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Nunc fringilla sagittis ante. Sed sed nisl facilisis, eleifend 
+libero sit amet, sollicitudin risus. Nunc ex urna, pellentesque 
+quis tincidunt quis, sagittis ut lacus. Praesent cursus semper enim,
+et varius augue sollicitudin nec. Nam quis neque in nunc tristique 
+hendrerit sit amet sit amet quam. Nam interdum ligula 
+sit amet tincidunt aliquet. Pellentesque vehicula tristique luctus.
+Donec nisi nunc, hendrerit et scelerisque ac, gravida sed metus.   
